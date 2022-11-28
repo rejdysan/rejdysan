@@ -1,7 +1,8 @@
 ```java
 public class Me extends GreenFoxAcademyStudent {
     String name = "michal rejduga";
-    String aboutMe = "enthusiastic, detail-oriented and hard-working individual ready to tackle any challenge of the world of coding and development";
+    String aboutMe = "enthusiastic, detail-oriented and hard-working individual ready to" +
+            "tackle any challenge of the world of coding and development";
     Integer birthYear = 1991;
     String education = "technical university graduate";
     List<String> formerOccupation = List.of(
