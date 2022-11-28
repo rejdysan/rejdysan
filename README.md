@@ -10,7 +10,7 @@ public class Me extends GreenFoxAcademyStudent {
     
     String education = "technical university graduate";
     List<String> formerOccupation = List.of(
-            "civil engineer",
+            "structural bridge engineer",
             "consultant for digitization"
     );
     String currentOccupation = "greenFox academy bootcamp";
