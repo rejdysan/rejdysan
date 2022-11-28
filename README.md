@@ -10,7 +10,7 @@ public class Me extends GreenFoxAcademyStudent {
             "consultant for digitization"
     );
     String currentOccupation = "greenFox academy bootcamp";
-    String otherAlias = "backend developer";
+    String otherAlias = "backend developer in learning";
     Map<String, String> codingSkills = Map.of(
             "Java/Spring", "not beginner anymore!",
             "HTML/CSS", "beginner",
@@ -26,6 +26,7 @@ public class Me extends GreenFoxAcademyStudent {
     String currentProject = "greenFox academy project: advertising portal";
     String petProject = "photo database with geolocation for your travels";
     String longTermGoal = "become a successful full-stack developer!";
+    
     boolean availableForHire = true;
 }
 ```
