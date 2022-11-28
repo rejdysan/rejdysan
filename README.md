@@ -21,7 +21,7 @@ public class Me extends GreenFoxAcademyStudent {
             "HTML/CSS", "beginner",
             "MySQL", "beginner"
     );
-    List<String> currentlyLearning = List.of(
+    List<String> learningOnTheSide = List.of(
             "Python",
             "JavaScript"
     );
