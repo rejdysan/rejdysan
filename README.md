@@ -30,6 +30,7 @@ public class Me extends GreenFoxAcademyStudent {
     
     String longTermGoal = "become a successful full-stack developer!";
     
+    boolean suitableForTeamwork = true;
     boolean availableForHire = true;
 }
 ```
