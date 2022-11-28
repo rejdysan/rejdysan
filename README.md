@@ -1,5 +1,5 @@
 ```java
-public class Me {
+public class Me extends GreenFoxAcademyStudent {
     String name = "michal rejduga";
     Integer birthYear = 1991;
     String education = "technical university graduate";
