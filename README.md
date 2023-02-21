@@ -11,13 +11,13 @@
     
     "otherAlias": "backend developer in learning",
     "codingSkills": ["Java", "Spring framework", "HTML/CSS", "MySQL"],
-    "learningOnTheSide": ["Python", "FastAPI framework", "PostgreSQL"].
+    "learningOnTheSide": ["Python", "FastAPI framework", "PostgreSQL"],
     
     "currentProject": "greenFox academy project: advertising portal API (Java)",
     "petProject": "music festival database API with bands, vendors, tickets, merch, etc. (Python)",
     "longTermGoal": "become a successful full-stack developer!",
     
-    "suitableForTeamwork": true;
+    "suitableForTeamwork": true,
     "availableForHire": true
 }
 ```
