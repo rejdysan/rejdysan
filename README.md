@@ -1,7 +1,8 @@
 ```json
 {
     "name": "michal rejduga",
-    "aboutMe": "enthusiastic, detail-oriented, hard-working individual ready to tackle any challenge - problem-solving junkie!",
+    "aboutMe": "enthusiastic, detail-oriented, hard-working individual ready to tackle any challenge",
+    "aka": "problem-solving junkie!",
     "birthYear": 1991,
     "askMeAbout": ["cooking", "tech", "cycling", "music", "coffee"],
     
