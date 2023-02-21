@@ -1,4 +1,4 @@
-```java
+```json
 {
     "name": "michal rejduga",
     "aboutMe": "enthusiastic, detail-oriented, hard-working individual ready to tackle any challenge - problem-solving junkie!",
