@@ -1,36 +1,23 @@
 ```java
-public class Me extends GreenFoxAcademyStudent {
-    String name = "michal rejduga";
-    String aboutMe = "enthusiastic, detail-oriented and hard-working individual ready to" +
-            "tackle any challenge of development world ... i'm also a problem-solving junkie!";
-    Integer birthYear = 1991;
-    List<String> askMeAbout = List.of(
-            "cooking", "tech", "cycling", "music", "coffee"
-    );
+{
+    "name": "michal rejduga",
+    "aboutMe": "enthusiastic, detail-oriented, hard-working individual ready to tackle any challenge - problem-solving junkie!",
+    "birthYear": 1991,
+    "askMeAbout": ["cooking", "tech", "cycling", "music", "coffee"],
     
-    String education = "technical university graduate";
-    List<String> formerOccupation = List.of(
-            "structural bridge engineer",
-            "consultant for digitization"
-    );
-    String currentOccupation = "greenFox academy bootcamp";
+    "education": ["technical university graduate", "GreenFox academy"],
+    "formerOccupation": ["structural bridge engineer", "consultant for digitization"],
+    "currentOccupation": "greenFox academy bootcamp",
     
-    String otherAlias = "backend developer in learning";
-    Map<String, String> codingSkills = Map.of(
-            "Java/Spring", "not beginner anymore!",
-            "HTML/CSS", "beginner",
-            "MySQL", "beginner"
-    );
-    List<String> learningOnTheSide = List.of(
-            "Python",
-            "JavaScript"
-    );
-    String currentProject = "greenFox academy project: advertising portal";
-    String petProject = "photo database with geolocation for your travels";
+    "otherAlias": "backend developer in learning",
+    "codingSkills": ["Java", "Spring framework", "HTML/CSS", "MySQL"],
+    "learningOnTheSide": ["Python", "FastAPI framework", "PostgreSQL"].
     
-    String longTermGoal = "become a successful full-stack developer!";
+    "currentProject": "greenFox academy project: advertising portal API (Java)",
+    "petProject": "music festival database API with bands, vendors, tickets, merch, etc. (Python)",
+    "longTermGoal": "become a successful full-stack developer!",
     
-    boolean suitableForTeamwork = true;
-    boolean availableForHire = true;
+    "suitableForTeamwork": true;
+    "availableForHire": true
 }
 ```
